@@ -1,0 +1,16 @@
+status: ok
+summary: 
+  total: 1
+  passed: 1
+  failed: 0
+  untested: 0
+  duration: 12.69s
+coverage: 
+  sut: DC_Motor_Simscape_ClosedLoop
+results: 
+  - name: REQ_DCM_009_600rpm_step_response
+    suite: Requirements
+    outcome: passed
+    duration: 11.03s
+    coverage: 
+      sut: DC_Motor_Simscape_ClosedLoop

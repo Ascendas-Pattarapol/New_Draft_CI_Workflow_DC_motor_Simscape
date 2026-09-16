@@ -1,0 +1,13 @@
+work/
+slprj/
+codegen/
+*.slxc
+*.mex*
+*.autosave
+*.asv
+*.m~
+*.slx.autosave
+*.mdl.autosave
+*.log
+*.tmp
+

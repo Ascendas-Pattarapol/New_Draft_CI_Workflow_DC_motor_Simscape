@@ -1,0 +1,9 @@
+*.slx binary
+*.slreqx binary
+*.mldatx binary
+*.slmx binary
+*.png binary
+*.md text eol=lf
+*.m text eol=lf
+*.yaml text eol=lf
+
