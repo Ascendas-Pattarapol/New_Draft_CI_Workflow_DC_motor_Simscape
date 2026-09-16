@@ -3,6 +3,7 @@ slprj/
 codegen/
 process_outputs/
 derived/
+ProcessAdvisorReport*.pdf
 *_ert_rtw/
 *_grt_rtw/
 *_rtw/
