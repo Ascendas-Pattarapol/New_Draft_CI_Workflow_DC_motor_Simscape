@@ -1,6 +1,11 @@
 work/
 slprj/
 codegen/
+process_outputs/
+derived/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
 *.slxc
 *.mex*
 *.autosave
@@ -10,4 +15,3 @@ codegen/
 *.mdl.autosave
 *.log
 *.tmp
-
